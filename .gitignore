@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/.vscode
+/__pycache__
+/models/best_resnet_with_augmentation_luv
+/input/scissor1.jpg
+/input/scissor2.jpg
